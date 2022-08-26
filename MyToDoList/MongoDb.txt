@@ -1,4 +1,0 @@
-mongodb+srv://Lucas:lucas123@cluster0.5mzulzn.mongodb.net/tarefasDB?retryWrites=true&w=majority
-nodemon index "mongodb+srv://Lucas:lucas123@cluster0.5mzulzn.mongodb.net/tarefasDB?retryWrites=true&w=majority"
-heroku git:remote -a apitarefaslucas186903
-https://apitarefaslucas186903.herokuapp.com/api/getAll
